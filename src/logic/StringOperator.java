@@ -11,7 +11,7 @@ public class StringOperator {
 	static Logger logger = Logger.getLogger(StringOperator.class.getName());
 	public static void main(String[] args) {
 
-		String str1 = "ciao ";
+		String str1 = "ciao   ";
 		String str2 = "come va";
 		
     	logger.log(Level.INFO, String.format("Insert String1"));
